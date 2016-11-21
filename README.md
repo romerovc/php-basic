@@ -1,2 +1,0 @@
-# php-basic
-echo "ok"
